@@ -35,18 +35,18 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Realtime Scanner
-    description                           : Om gevonden woorden live te tonen over de camera heen
+    description                           : Gevonden woorden worden live getoond over het camerabeeld heen. Snel en duidelijk.
     fontawesome_icon_name                 : camera
     
   - title                                 : Ingebouwde woordenlijsten
-    description                           : Voor de meest voorkomende allergie groepen (gluten, lactose, noten etc)
+    description                           : Voor de meest voorkomende allergie groepen (gluten, lactose, noten, kippen-ei etc)
     fontawesome_icon_name                 : utensils
 
   - title                                 : Personaliseer
     description                           : Maak eigen allergie groepen aan met eigen woordenlijsten
     fontawesome_icon_name                 : list
 
-  - title                                 : Ook voore Vegans
+  - title                                 : Ook voor Vegans
     description                           : Lists of animal based e-numbers are also included
     fontawesome_icon_name                 : paw
 
