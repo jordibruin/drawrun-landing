@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
   - title                                 : Simple and Clean
     description                           : A simple but useful app that lets you visualize your runs on a map.
-    fontawesome_icon_name                 : pensil-alt
+    fontawesome_icon_name                 : pencil-alt
 
   - title                                 : Prepare your run
     description                           : Before or after a run you can quickly draw your route to calculate the distance.
